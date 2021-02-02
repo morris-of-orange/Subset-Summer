@@ -15,3 +15,5 @@ This program will find A solution, not ALL solutions. I want to find ALL Solutio
 This only works with integers. Originally I tested this with floats, but that caused problems, so I have to figure out how to convert from floats to integers, then back again. 
 
 I would also like to convert this to VBA so I can use it in excel. 
+
+If you have an example that absoultly messes up this code, please let me know. 
